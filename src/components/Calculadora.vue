@@ -66,7 +66,7 @@ select {
   margin: 10px 0;
   padding: 8px;
   width: 320px;
-  border: 1px solid #ff0000;
+  border: 1px solid #000000;
   border-radius: 3px;
   display: flex;
   align-items: center;
